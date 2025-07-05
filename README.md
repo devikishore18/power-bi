@@ -14,7 +14,7 @@ Interactive Power BI dashboard built to provide Blinkit’s stakeholders with 
 - **Interactive visuals**: Time series, bar charts, donut charts, stacked column chart, line chart, pie charts, matrix cards,funnel map and slicers  
 - **Dynamic metric selector** using DAX   
 - **Category analysis**: By item type, fat content, outlet size, and city tier  
-- **Time Intelligence**: YoY and MoM growth using `SAMEPERIODLASTYEAR`, `DATEADD`
+  
 
 ---
 ## 🗂️ Data Model
